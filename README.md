@@ -4,7 +4,7 @@ Platform pencatatan keuangan modern berbasis web dengan arsitektur reaktif, kont
 
 ## Anggota Tim
 1. Muhammad Raseuki 
-2. M Abid Rahmatillah Z (abidrahmatillah20) 
+2. M Abid Rahmatillah Z 
 ## Fitur Utama
 - Halaman Landing / Beranda Modern
 - Autentikasi Pengguna (Daftar & Masuk)
